@@ -18,7 +18,7 @@ baseurl: "/website" # the subpath of your site, e.g. "/blog".  WARNING: if you a
 
 # Email and twitter are optional:
 email: h.sandipan05@gmail.com
-twitter_username: "@sandipanh05"
+twitter_username: sandipanh05
 
 # Set this to true to get LaTeX math equation support
 use_math: true
