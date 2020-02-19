@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am Sandipan Haldar. I completed my undergraduates degree from IIT Guwahati. Currently I am working as a Data Scientist. Since my college I have been interested in intersection of robotics and reinforcement learning. This blog is primarily about documenting some of my current and previous works and some of the knowledge I gained while in the field of AI.
+
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
